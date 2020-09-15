@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>Url Shortener | alim my id</title>
+	<title>Kirim Kode OTP | Whatsapp Api</title>
 	<link href="https://link.alim.my.id/assets/img/logo.png" rel="icon" type="image/png">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
