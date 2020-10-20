@@ -9,7 +9,7 @@ $header  = array(
 );
 $params = [
     'to'      => $to,
-    'messages' => $message,
+    'message' => $message,
 ];
 $params_post = json_encode($params, JSON_PRETTY_PRINT);
 $post        = curl_init($url);
